@@ -14,5 +14,5 @@ Somente um repo para testar projetos em Rust
 - Rust
 
 ## Arch setup
-sudo pacman -S rustup
-rustup default stable
+- sudo pacman -S rustup
+- rustup default stable
